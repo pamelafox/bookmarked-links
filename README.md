@@ -15,3 +15,6 @@
 | [The new GPT-5.6 family: Luna, Terra, Sol](https://simonwillison.net/2026/Jul/9/gpt-5-6/) | 2026-07-10 |
 | [Introducing ChatGPT Work, powered by Codex and GPT-5.6](https://www.youtube.com/live/Wq45rvPGNHs?t=1070s) | 2026-07-10 |
 | [What do we build now? — Theo Browne, @t3dotgg](https://www.youtube.com/watch?v=xUnRQ9vLXxo) | 2026-07-10 |
+| [Better tools made Copilot code review worse. Here's how we actually improved it.](https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/) | 2026-07-12 |
+| [Quantization for ColBERT \| Isaac Flath](https://isaacflath.com/writing/QuantizationFundamentalsForMultiVectorRetrieval) | 2026-07-12 |
+| [Model guidance \| OpenAI API](https://developers.openai.com/api/docs/guides/latest-model) | 2026-07-12 |
