@@ -18,3 +18,4 @@
 | [Better tools made Copilot code review worse. Here's how we actually improved it.](https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/) | 2026-07-12 |
 | [Quantization for ColBERT \| Isaac Flath](https://isaacflath.com/writing/QuantizationFundamentalsForMultiVectorRetrieval) | 2026-07-12 |
 | [Model guidance \| OpenAI API](https://developers.openai.com/api/docs/guides/latest-model) | 2026-07-12 |
+| [Photopea \| Online Photo Editor](https://www.photopea.com/) | 2026-07-13 |
