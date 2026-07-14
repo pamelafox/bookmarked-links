@@ -19,3 +19,4 @@
 | [Quantization for ColBERT \| Isaac Flath](https://isaacflath.com/writing/QuantizationFundamentalsForMultiVectorRetrieval) | 2026-07-12 |
 | [Model guidance \| OpenAI API](https://developers.openai.com/api/docs/guides/latest-model) | 2026-07-12 |
 | [Photopea \| Online Photo Editor](https://www.photopea.com/) | 2026-07-13 |
+| [134. The Future of Software Development with AI Agents - With Burke Holland](https://www.youtube.com/watch?v=rupzQy-2WB8) | 2026-07-14 |
