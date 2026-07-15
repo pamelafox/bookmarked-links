@@ -20,3 +20,6 @@
 | [Model guidance \| OpenAI API](https://developers.openai.com/api/docs/guides/latest-model) | 2026-07-12 |
 | [Photopea \| Online Photo Editor](https://www.photopea.com/) | 2026-07-13 |
 | [134. The Future of Software Development with AI Agents - With Burke Holland](https://www.youtube.com/watch?v=rupzQy-2WB8) | 2026-07-14 |
+| [Beyond text: Returning images and interactive apps from MCP servers](https://techcommunity.microsoft.com/blog/AzureDevCommunityBlog/beyond-text-returning-images-and-interactive-apps-from-mcp-servers/4535865) | 2026-07-15 |
+| [Calm Technology](https://calmtech.com/) | 2026-07-15 |
+| [Let's Learn GitHub Copilot App \| Microsoft Reactor](https://gh.io/letslearn) | 2026-07-15 |
