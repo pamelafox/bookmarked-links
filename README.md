@@ -23,3 +23,4 @@
 | [Beyond text: Returning images and interactive apps from MCP servers](https://techcommunity.microsoft.com/blog/AzureDevCommunityBlog/beyond-text-returning-images-and-interactive-apps-from-mcp-servers/4535865) | 2026-07-15 |
 | [Calm Technology](https://calmtech.com/) | 2026-07-15 |
 | [Let's Learn GitHub Copilot App \| Microsoft Reactor](https://gh.io/letslearn) | 2026-07-15 |
+| [Pollinator Post 7/9/26 (1) - Bringing Back the Natives Garden Tour and Green Home Features Showcase](https://bringingbackthenatives.net/guest-post/pollinator-post-7-9-26-1) | 2026-07-16 |
