@@ -24,3 +24,5 @@
 | [Calm Technology](https://calmtech.com/) | 2026-07-15 |
 | [Let's Learn GitHub Copilot App \| Microsoft Reactor](https://gh.io/letslearn) | 2026-07-15 |
 | [Pollinator Post 7/9/26 (1) - Bringing Back the Natives Garden Tour and Green Home Features Showcase](https://bringingbackthenatives.net/guest-post/pollinator-post-7-9-26-1) | 2026-07-16 |
+| [Ollama - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Ollama.ollama) | 2026-07-17 |
+| [MCP Graduation Party · Luma](https://luma.com/ugfl1mn2) | 2026-07-17 |
