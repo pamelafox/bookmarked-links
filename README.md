@@ -26,3 +26,7 @@
 | [Pollinator Post 7/9/26 (1) - Bringing Back the Natives Garden Tour and Green Home Features Showcase](https://bringingbackthenatives.net/guest-post/pollinator-post-7-9-26-1) | 2026-07-16 |
 | [Ollama - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Ollama.ollama) | 2026-07-17 |
 | [MCP Graduation Party · Luma](https://luma.com/ugfl1mn2) | 2026-07-17 |
+| [a14y: Agent readability for the web](https://a14y.dev/) | 2026-07-19 |
+| [How We Made Our Docs Test Themselves](https://www.langchain.com/blog/our-docs-test-themselves) | 2026-07-19 |
+| [Scaling Open Source Code Review With AI \| Pydantic](https://pydantic.dev/articles/scaling-open-source-with-ai) | 2026-07-19 |
+| [Writing about Agentic Engineering Patterns](https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/) | 2026-07-19 |
