@@ -30,3 +30,9 @@
 | [How We Made Our Docs Test Themselves](https://www.langchain.com/blog/our-docs-test-themselves) | 2026-07-19 |
 | [Scaling Open Source Code Review With AI \| Pydantic](https://pydantic.dev/articles/scaling-open-source-with-ai) | 2026-07-19 |
 | [Writing about Agentic Engineering Patterns](https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/) | 2026-07-19 |
+| [PyBay 2026 - Call for Proposals](https://pybay.org/speaking/call-for-proposals/) | 2026-07-21 |
+| [Microsoft IQ Deep Dive with Python \| Microsoft Reactor](https://developer.microsoft.com/en-us/reactor/series/S-1684/) | 2026-07-21 |
+| [MCP Release Party (London) · Luma](https://luma.com/klu2tegz) | 2026-07-21 |
+| [MCP Release Party · Luma](https://luma.com/aaif-zwdl) | 2026-07-21 |
+| [presentation-writeups: python-mcp-session3-auth writeup](https://github.com/pamelafox/presentation-writeups/blob/main/presentations/python-mcp-session3-auth/outputs/writeup.md) | 2026-07-21 |
+| [Return image_search results as images with correct MIME types (PR #104)](https://github.com/Azure-Samples/image-search-aisearch/pull/104) | 2026-07-21 |
