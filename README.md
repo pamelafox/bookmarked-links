@@ -36,3 +36,6 @@
 | [MCP Release Party · Luma](https://luma.com/aaif-zwdl) | 2026-07-21 |
 | [presentation-writeups: python-mcp-session3-auth writeup](https://github.com/pamelafox/presentation-writeups/blob/main/presentations/python-mcp-session3-auth/outputs/writeup.md) | 2026-07-21 |
 | [Return image_search results as images with correct MIME types (PR #104)](https://github.com/Azure-Samples/image-search-aisearch/pull/104) | 2026-07-21 |
+| [A global workspace in language models](https://www.anthropic.com/research/global-workspace) | 2026-07-22 |
+| [Jacobian Lens](https://www.neuronpedia.org/jlens) | 2026-07-22 |
+| [GitHub Stacked PRs](https://github.github.com/gh-stack/) | 2026-07-22 |
