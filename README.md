@@ -39,3 +39,4 @@
 | [A global workspace in language models](https://www.anthropic.com/research/global-workspace) | 2026-07-22 |
 | [Jacobian Lens](https://www.neuronpedia.org/jlens) | 2026-07-22 |
 | [GitHub Stacked PRs](https://github.github.com/gh-stack/) | 2026-07-22 |
+| [Full 2026 FIFA World Cup™ Final Halftime Show ⭐️](https://www.youtube.com/watch?v=Gi_M6FnK1NE) | 2026-07-23 |
