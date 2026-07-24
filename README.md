@@ -40,3 +40,7 @@
 | [Jacobian Lens](https://www.neuronpedia.org/jlens) | 2026-07-22 |
 | [GitHub Stacked PRs](https://github.github.com/gh-stack/) | 2026-07-22 |
 | [Full 2026 FIFA World Cup™ Final Halftime Show ⭐️](https://www.youtube.com/watch?v=Gi_M6FnK1NE) | 2026-07-23 |
+| [Do Automated Evals Work? – Parlance Labs](https://parlance-labs.com/blog/posts/auto-evals/) | 2026-07-24 |
+| [In defense of not understanding your codebase](https://www.seangoedecke.com/in-defense-of-not-understanding-your-codebase/) | 2026-07-24 |
+| [A gentle introduction to Git worktrees - Human Who Codes](https://humanwhocodes.com/blog/2026/07/introduction-git-worktrees/) | 2026-07-24 |
+| [Working with canvas extensions in the GitHub Copilot app - GitHub Docs](https://docs.github.com/en/copilot/how-tos/github-copilot-app/working-with-canvas-extensions) | 2026-07-24 |
