@@ -44,3 +44,5 @@
 | [In defense of not understanding your codebase](https://www.seangoedecke.com/in-defense-of-not-understanding-your-codebase/) | 2026-07-24 |
 | [A gentle introduction to Git worktrees - Human Who Codes](https://humanwhocodes.com/blog/2026/07/introduction-git-worktrees/) | 2026-07-24 |
 | [Working with canvas extensions in the GitHub Copilot app - GitHub Docs](https://docs.github.com/en/copilot/how-tos/github-copilot-app/working-with-canvas-extensions) | 2026-07-24 |
+| [axe-playwright-python](https://pypi.org/project/axe-playwright-python/) | 2026-07-25 |
+| [Claude Opus 5 is now available in GitHub Copilot](https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot/) | 2026-07-25 |
