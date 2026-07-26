@@ -46,3 +46,10 @@
 | [Working with canvas extensions in the GitHub Copilot app - GitHub Docs](https://docs.github.com/en/copilot/how-tos/github-copilot-app/working-with-canvas-extensions) | 2026-07-24 |
 | [axe-playwright-python](https://pypi.org/project/axe-playwright-python/) | 2026-07-25 |
 | [Claude Opus 5 is now available in GitHub Copilot](https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot/) | 2026-07-25 |
+| [Field Guide to Fable — Thariq Shihipar, Anthropic](https://youtu.be/9fubhllmsBU) | 2026-07-26 |
+| [How Prompt Tuning Improved GPT-5.5 in VS Code](https://aka.ms/vscode/blog/gpt5) | 2026-07-26 |
+| [MCP: The AI Standard That Works ft Pamela Fox at AIE World's Fair](https://youtube.com/shorts/3iD0iu2LXpI) | 2026-07-26 |
+| [Kimi K2.7 Code is generally available in GitHub Copilot](https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/) | 2026-07-26 |
+| [What's new in Claude Sonnet 5](https://simonwillison.net/2026/Jun/30/claude-sonnet-5/) | 2026-07-26 |
+| [The model swap workshop — AIE World's Fair 2026](https://aiewf.app/sessions/s0014) | 2026-07-26 |
+| [Claude in Microsoft Foundry is now generally available](https://msft.it/6018vsDhM) | 2026-07-26 |
