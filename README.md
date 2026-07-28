@@ -53,3 +53,6 @@
 | [What's new in Claude Sonnet 5](https://simonwillison.net/2026/Jun/30/claude-sonnet-5/) | 2026-07-26 |
 | [The model swap workshop — AIE World's Fair 2026](https://aiewf.app/sessions/s0014) | 2026-07-26 |
 | [Claude in Microsoft Foundry is now generally available](https://msft.it/6018vsDhM) | 2026-07-26 |
+| [GitHub - pamelafox/presentation-skills](https://github.com/pamelafox/presentation-skills) | 2026-07-28 |
+| [Semantic Kernel to Microsoft Agent Framework Migration Guide](https://learn.microsoft.com/en-us/agent-framework/migration-guide/from-semantic-kernel/) | 2026-07-28 |
+| [3D models database \| Printables.com](https://www.printables.com/) | 2026-07-28 |
