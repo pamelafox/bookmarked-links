@@ -56,3 +56,14 @@
 | [GitHub - pamelafox/presentation-skills](https://github.com/pamelafox/presentation-skills) | 2026-07-28 |
 | [Semantic Kernel to Microsoft Agent Framework Migration Guide](https://learn.microsoft.com/en-us/agent-framework/migration-guide/from-semantic-kernel/) | 2026-07-28 |
 | [3D models database \| Printables.com](https://www.printables.com/) | 2026-07-28 |
+| [AI Agent Security - OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/cheatsheets/AI_Agent_Security_Cheat_Sheet.html) | 2026-07-30 |
+| [OWASP FinBot CTF - The Juice Shop for Agentic AI](https://owasp-finbot-ctf.org/) | 2026-07-30 |
+| [Hillel Wayne](https://hillelwayne.com/) | 2026-07-30 |
+| [FastMCP TypeScript library](https://github.com/PrefectHQ/fastmcp-ts) | 2026-07-30 |
+| [Microsoft IQ Deep Dive with Python: Foundry IQ](https://www.youtube.com/watch?v=cbvM3-Xhx90) | 2026-07-30 |
+| [Microsoft IQ Deep Dive with Python: Foundry IQ writeup](https://github.com/pamelafox/presentation-writeups/blob/main/presentations/iqdeepdive-foundryiq/outputs/writeup.md) | 2026-07-30 |
+| [The 2026-07-28 Specification \| Model Context Protocol Blog](https://blog.modelcontextprotocol.io/posts/2026-07-28/) | 2026-07-30 |
+| [MCP Live! \| Microsoft Reactor](https://developer.microsoft.com/en-us/reactor/events/27448/) | 2026-07-30 |
+| [Microsoft IQ Deep Dive with Python (livestream series): Resources](https://github.com/orgs/microsoft-foundry/discussions/429) | 2026-07-30 |
+| [AGNTCon/MCPCon North America - Register](https://events.linuxfoundation.org/agntcon-mcpcon-north-america/register/) | 2026-07-30 |
+| [FastMCP: The Framework for MCP](https://gofastmcp.com/getting-started/welcome) | 2026-07-30 |
