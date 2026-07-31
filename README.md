@@ -67,3 +67,6 @@
 | [Microsoft IQ Deep Dive with Python (livestream series): Resources](https://github.com/orgs/microsoft-foundry/discussions/429) | 2026-07-30 |
 | [AGNTCon/MCPCon North America - Register](https://events.linuxfoundation.org/agntcon-mcpcon-north-america/register/) | 2026-07-30 |
 | [FastMCP: The Framework for MCP](https://gofastmcp.com/getting-started/welcome) | 2026-07-30 |
+| [Stacked pull requests are now in public preview](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/) | 2026-07-31 |
+| [Microsoft IQ Deep Dive with Python: Fabric IQ](https://www.youtube.com/watch?v=MC97CXno8FI) | 2026-07-31 |
+| [Microsoft IQ Deep Dive with Python: Fabric IQ writeup](https://github.com/pamelafox/presentation-writeups/blob/main/presentations/iqdeepdive-fabriciq/outputs/writeup.md) | 2026-07-31 |
