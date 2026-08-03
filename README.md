@@ -78,3 +78,4 @@
 | [Point Lobos State Natural Reserve](https://www.parks.ca.gov/?page_id=571) | 2026-08-01 |
 | [Pacific Grove Museum of Natural History](https://www.pgmuseum.org/) | 2026-08-01 |
 | [Balcony Solar Kits – Easy Setup, Real Energy Savings](https://www.brightsaver.org/balcony-solar-kits) | 2026-08-02 |
+| [The Crossover Project](https://www.hillelwayne.com/tags/crossover-project/) | 2026-08-03 |
