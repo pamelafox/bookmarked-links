@@ -79,3 +79,19 @@
 | [Pacific Grove Museum of Natural History](https://www.pgmuseum.org/) | 2026-08-01 |
 | [Balcony Solar Kits – Easy Setup, Real Energy Savings](https://www.brightsaver.org/balcony-solar-kits) | 2026-08-02 |
 | [The Crossover Project](https://www.hillelwayne.com/tags/crossover-project/) | 2026-08-03 |
+| [MCP Community Connect - San Francisco - Global AI Community](https://globalai.community/e/bay9vh24) | 2026-08-12 |
+| [Moving to issues as the new PRs \| goose](https://goose-docs.ai/blog/2026/07/30/issues-are-the-new-prs/) | 2026-08-12 |
+| [Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks](https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/) | 2026-08-12 |
+| [Stacked pull requests - GitHub Docs](https://docs.github.com/en/pull-requests/how-tos/stacked-pull-requests) | 2026-08-12 |
+| [Grading rubrics - LangChain deepagents](https://docs.langchain.com/oss/python/deepagents/rubric) | 2026-08-12 |
+| [Microsoft IQ Live \| Microsoft Reactor](https://developer.microsoft.com/en-us/reactor/series/S-1690/) | 2026-08-12 |
+| [WorkOS Agent Night · Luma](https://luma.com/agent-night) | 2026-08-12 |
+| [Open Source AI Gap Map - AI Potluck](https://www.aipotluck.org/map) | 2026-08-12 |
+| [Now we have a timeline of the OpenAI accidental attack against Hugging Face](https://simonwillison.net/2026/Aug/7/openai-timeline/) | 2026-08-12 |
+| [Bay Area DSPy Meetup · Luma](https://luma.com/61qrnbs7) | 2026-08-12 |
+| [MCP Adoption Tracker](https://evalstate-mcp-adoption.static.hf.space/index.html) | 2026-08-12 |
+| [Getting a hysterectomy: My reasons and recovery](https://blog.pamelafox.org/2025/06/getting-hysterectomy-my-reasons-and.html) | 2026-08-12 |
+| [Visual Studio Code Learn](https://code.visualstudio.com/learn) | 2026-08-12 |
+| [Ch(e)at GPT? - Computerphile](https://www.youtube.com/watch?v=XZJc1p6RE78) | 2026-08-12 |
+| [How pull request limits are cutting down the noise - The GitHub Blog](https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/) | 2026-08-12 |
+| [Tool Annotations - MCP 2026-07-28 Specification](https://modelcontextprotocol.io/specification/2026-07-28/schema#toolannotations) | 2026-08-12 |
