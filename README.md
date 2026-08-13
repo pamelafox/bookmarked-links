@@ -95,3 +95,4 @@
 | [Ch(e)at GPT? - Computerphile](https://www.youtube.com/watch?v=XZJc1p6RE78) | 2026-08-12 |
 | [How pull request limits are cutting down the noise - The GitHub Blog](https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/) | 2026-08-12 |
 | [Tool Annotations - MCP 2026-07-28 Specification](https://modelcontextprotocol.io/specification/2026-07-28/schema#toolannotations) | 2026-08-12 |
+| [Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app - GitHub Changelog](https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app/) | 2026-08-13 |
