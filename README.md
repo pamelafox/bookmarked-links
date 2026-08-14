@@ -96,3 +96,7 @@
 | [How pull request limits are cutting down the noise - The GitHub Blog](https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/) | 2026-08-12 |
 | [Tool Annotations - MCP 2026-07-28 Specification](https://modelcontextprotocol.io/specification/2026-07-28/schema#toolannotations) | 2026-08-12 |
 | [Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app - GitHub Changelog](https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app/) | 2026-08-13 |
+| [Block users from comments in personal repositories - GitHub Changelog](https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories/) | 2026-08-14 |
+| [Building MCP servers for your database: Flexibility, safety, and tradeoffs \| Microsoft Community Hub](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/building-mcp-servers-for-your-database-flexibility-safety-and-tradeoffs/4546385) | 2026-08-14 |
+| [microsoft-foundry/model-releases: Track the latest model releases on Microsoft Foundry](https://aka.ms/model-releases) | 2026-08-14 |
+| [GitHub - openclaw/discrawl: cli for Discord with sqlite backend](https://github.com/openclaw/discrawl) | 2026-08-14 |
