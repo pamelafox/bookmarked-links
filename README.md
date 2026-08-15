@@ -100,3 +100,6 @@
 | [Building MCP servers for your database: Flexibility, safety, and tradeoffs \| Microsoft Community Hub](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/building-mcp-servers-for-your-database-flexibility-safety-and-tradeoffs/4546385) | 2026-08-14 |
 | [microsoft-foundry/model-releases: Track the latest model releases on Microsoft Foundry](https://aka.ms/model-releases) | 2026-08-14 |
 | [GitHub - openclaw/discrawl: cli for Discord with sqlite backend](https://github.com/openclaw/discrawl) | 2026-08-14 |
+| [Agent Night Live: Introducing Intent-Based Access Control](https://www.youtube.com/watch?v=wcYdO0v1K1k) | 2026-08-15 |
+| [Contributing - tiangolo's boring personal website](https://tiangolo.com/open-source/contributing/#human-effort-denial-of-service) | 2026-08-15 |
+| [What 50 open source projects taught us about security in the AI era](https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/) | 2026-08-15 |
