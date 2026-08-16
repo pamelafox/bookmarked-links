@@ -103,3 +103,4 @@
 | [Agent Night Live: Introducing Intent-Based Access Control](https://www.youtube.com/watch?v=wcYdO0v1K1k) | 2026-08-15 |
 | [Contributing - tiangolo's boring personal website](https://tiangolo.com/open-source/contributing/#human-effort-denial-of-service) | 2026-08-15 |
 | [What 50 open source projects taught us about security in the AI era](https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/) | 2026-08-15 |
+| [GitHub Shop – "Ship it" squirrel holographic stickers (pack of 3)](https://thegithubshop.com/collections/stickers/products/1547497-00-holographic-stickers-pack-of-3) | 2026-08-16 |
