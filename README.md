@@ -106,3 +106,4 @@
 | [GitHub Shop – "Ship it" squirrel holographic stickers (pack of 3)](https://thegithubshop.com/collections/stickers/products/1547497-00-holographic-stickers-pack-of-3) | 2026-08-16 |
 | [Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing) | 2026-08-17 |
 | [Skills Over MCP - Agentic AI Foundation (AAIF)](https://aaif.io/blog/skills-over-mcp) | 2026-08-17 |
+| [GitHub - Fission-AI/OpenSpec: Spec-driven development (SDD) for AI coding assistants](https://github.com/Fission-AI/OpenSpec) | 2026-08-18 |
