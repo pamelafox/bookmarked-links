@@ -107,3 +107,15 @@
 | [Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing) | 2026-08-17 |
 | [Skills Over MCP - Agentic AI Foundation (AAIF)](https://aaif.io/blog/skills-over-mcp) | 2026-08-17 |
 | [GitHub - Fission-AI/OpenSpec: Spec-driven development (SDD) for AI coding assistants](https://github.com/Fission-AI/OpenSpec) | 2026-08-18 |
+| [Don't paste the AI, please.](https://dontpastetheai.com/) | 2026-08-26 |
+| [Roadmap - Model Context Protocol](https://modelcontextprotocol.io/development/roadmap) | 2026-08-26 |
+| [Skills Over MCP Charter - Model Context Protocol](https://modelcontextprotocol.io/community/working-groups/skills-over-mcp) | 2026-08-26 |
+| [Agent Plugins: Package your skills, tools, and more - Google Developers Blog](https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more/) | 2026-08-26 |
+| ["Gorilla Smash!" Drum-Along Dance \| Danny Go! Songs for Kids](https://www.youtube.com/watch?v=nXUQxgQHX8E) | 2026-08-26 |
+| [Prevent Birds Hitting Windows \| CollidEscape](https://www.collidescape.org/) | 2026-08-26 |
+| [Stack It Yourself: Open Infrastructure for AI Agents — AGNTCon/MCPCon workshop schedule](https://events.linuxfoundation.org/agntcon-mcpcon-north-america/program/schedule/?id=1256232) | 2026-08-26 |
+| [WebMCP Challenge](https://openai.com/webmcp-challenge/) | 2026-08-26 |
+| [Model Mastery Workshop with Microsoft and Anthropic · Luma](https://luma.com/p6m4n0g7) | 2026-08-26 |
+| [Shared agentic work with GitHub Copilot in Microsoft Teams - GitHub Changelog](https://github.blog/changelog/2026-08-21-shared-agentic-work-with-github-copilot-in-microsoft-teams/) | 2026-08-26 |
+| [The new GitHub Copilot experience in Slack - GitHub Changelog](https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack/) | 2026-08-26 |
+| [Weekly Python + AI office hours - August 25, 2026](https://www.youtube.com/watch?v=8YlDFQpiq30) | 2026-08-26 |
