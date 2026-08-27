@@ -119,3 +119,6 @@
 | [Shared agentic work with GitHub Copilot in Microsoft Teams - GitHub Changelog](https://github.blog/changelog/2026-08-21-shared-agentic-work-with-github-copilot-in-microsoft-teams/) | 2026-08-26 |
 | [The new GitHub Copilot experience in Slack - GitHub Changelog](https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack/) | 2026-08-26 |
 | [Weekly Python + AI office hours - August 25, 2026](https://www.youtube.com/watch?v=8YlDFQpiq30) | 2026-08-26 |
+| [A turbulent AI era, and critical choices to make](https://www.gatesnotes.com/home/home-page-topic/reader/a-turbulent-ai-era-and-critical-choices-to-make) | 2026-08-27 |
+| [Batching the Reflective Optimization Loop: Parallel Proposals Make GEPA Faster and Better](https://gepa-ai.github.io/gepa/blog/2026/07/30/parallel-proposals/) | 2026-08-27 |
+| [lm15: One canonical representation for LLM APIs](https://github.com/lm15-dev) | 2026-08-27 |
