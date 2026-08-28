@@ -122,3 +122,5 @@
 | [A turbulent AI era, and critical choices to make](https://www.gatesnotes.com/home/home-page-topic/reader/a-turbulent-ai-era-and-critical-choices-to-make) | 2026-08-27 |
 | [Batching the Reflective Optimization Loop: Parallel Proposals Make GEPA Faster and Better](https://gepa-ai.github.io/gepa/blog/2026/07/30/parallel-proposals/) | 2026-08-27 |
 | [lm15: One canonical representation for LLM APIs](https://github.com/lm15-dev) | 2026-08-27 |
+| [LLM cliché highlighter](https://tools.simonwillison.net/llm-cliche-highlighter) | 2026-08-28 |
+| [Realtime voice agents in Pydantic AI](https://pydantic.dev/articles/pydantic-ai-voice-agent) | 2026-08-28 |
