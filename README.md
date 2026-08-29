@@ -124,3 +124,10 @@
 | [lm15: One canonical representation for LLM APIs](https://github.com/lm15-dev) | 2026-08-27 |
 | [LLM cliché highlighter](https://tools.simonwillison.net/llm-cliche-highlighter) | 2026-08-28 |
 | [Realtime voice agents in Pydantic AI](https://pydantic.dev/articles/pydantic-ai-voice-agent) | 2026-08-28 |
+| [Compatible clients — Agent Plugins](https://agent-plugins.org/compatible-clients) | 2026-08-29 |
+| [Plugins — OpenAI Developers](https://developers.openai.com/plugins) | 2026-08-29 |
+| [pamelafox/agent-plugins-example](https://github.com/pamelafox/agent-plugins-example) | 2026-08-29 |
+| [SMP (computer algebra system) - Wikipedia](https://en.wikipedia.org/wiki/SMP_(computer_algebra_system)) | 2026-08-29 |
+| [Palm V - Wikipedia](https://en.wikipedia.org/wiki/Palm_V) | 2026-08-29 |
+| [Palm V Review - The Gadgeteer](https://the-gadgeteer.com/1999/02/28/palm_v_review/) | 2026-08-29 |
+| [Tokyo Gâteaux — Dandelion Chocolate](https://www.dandelionchocolate.com/products/tokyo-gateaux) | 2026-08-29 |
