@@ -131,3 +131,4 @@
 | [Palm V - Wikipedia](https://en.wikipedia.org/wiki/Palm_V) | 2026-08-29 |
 | [Palm V Review - The Gadgeteer](https://the-gadgeteer.com/1999/02/28/palm_v_review/) | 2026-08-29 |
 | [Tokyo Gâteaux — Dandelion Chocolate](https://www.dandelionchocolate.com/products/tokyo-gateaux) | 2026-08-29 |
+| [Ducks and Data - Sept SF Python at Sentry](https://www.meetup.com/sfpython/events/316322896/) | 2026-08-30 |
