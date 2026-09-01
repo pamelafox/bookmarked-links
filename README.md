@@ -133,3 +133,6 @@
 | [Tokyo Gâteaux — Dandelion Chocolate](https://www.dandelionchocolate.com/products/tokyo-gateaux) | 2026-08-29 |
 | [Ducks and Data - Sept SF Python at Sentry](https://www.meetup.com/sfpython/events/316322896/) | 2026-08-30 |
 | [Geoffrey C. Fox \| University of Virginia School of Engineering and Applied Science](https://engineering.virginia.edu/faculty/geoffrey-c-fox) | 2026-08-31 |
+| [Release v4.0.0: Four Real · PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp/releases/tag/v4.0.0) | 2026-09-01 |
+| [OpenClaw Went Viral. Meet the Maintainers Building and Securing It.](https://youtu.be/5VSwaUXtPIE) | 2026-09-01 |
+| [MCP Live! \| Microsoft Reactor](https://aka.ms/MCPLive/99/x) | 2026-09-01 |
