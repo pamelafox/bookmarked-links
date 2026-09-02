@@ -136,3 +136,8 @@
 | [Release v4.0.0: Four Real · PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp/releases/tag/v4.0.0) | 2026-09-01 |
 | [OpenClaw Went Viral. Meet the Maintainers Building and Securing It.](https://youtu.be/5VSwaUXtPIE) | 2026-09-01 |
 | [MCP Live! \| Microsoft Reactor](https://aka.ms/MCPLive/99/x) | 2026-09-01 |
+| [Can I Use MCP? – Compare MCP Feature Support Across AI Hosts](https://caniuse.dev/host-compare) | 2026-09-02 |
+| [The changing identity of software engineers](https://newsletter.humanwhocodes.com/posts/the-changing-identity-of-software-engineers) | 2026-09-02 |
+| [Block users from discussion comments in personal repositories - GitHub Changelog](https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories/) | 2026-09-02 |
+| [Site tools (WebMCP) — ChatGPT docs](https://learn.chatgpt.com/docs/webmcp) | 2026-09-02 |
+| [VS Code agent hook to announce chat completions](https://gist.github.com/pamelafox/c9cb3e000fdf127741b121d7c5abbf02) | 2026-09-02 |
