@@ -141,3 +141,7 @@
 | [Block users from discussion comments in personal repositories - GitHub Changelog](https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories/) | 2026-09-02 |
 | [Site tools (WebMCP) — ChatGPT docs](https://learn.chatgpt.com/docs/webmcp) | 2026-09-02 |
 | [VS Code agent hook to announce chat completions](https://gist.github.com/pamelafox/c9cb3e000fdf127741b121d7c5abbf02) | 2026-09-02 |
+| [Ajeya Cotra – "This might be the clearest warning shot we ever get"](https://www.youtube.com/watch?v=X50zezLFWWI) | 2026-09-03 |
+| [generate-images-mai skill · pamelafox/presentation-skills](https://github.com/pamelafox/presentation-skills/blob/main/.agents/skills/generate-images-mai/SKILL.md) | 2026-09-03 |
+| [Fledgling — Leave the Nest](https://fledglinggame.com/) | 2026-09-03 |
+| [ZeroPad - The Invisible Mouse Pad](https://zeromousepad.com/) | 2026-09-03 |
