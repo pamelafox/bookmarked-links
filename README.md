@@ -145,3 +145,9 @@
 | [generate-images-mai skill · pamelafox/presentation-skills](https://github.com/pamelafox/presentation-skills/blob/main/.agents/skills/generate-images-mai/SKILL.md) | 2026-09-03 |
 | [Fledgling — Leave the Nest](https://fledglinggame.com/) | 2026-09-03 |
 | [ZeroPad - The Invisible Mouse Pad](https://zeromousepad.com/) | 2026-09-03 |
+| [SEP-2640: Skills Extension · modelcontextprotocol#2640](https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2640) | 2026-09-04 |
+| [Mid-turn steering \| OpenAI API](https://developers.openai.com/api/docs/guides/steering) | 2026-09-04 |
+| [Computer Use vs Structured APIs](https://apidog.com/blog/computer-use-vs-structured-apis/) | 2026-09-04 |
+| [MCP Community Connect - San Francisco · Luma](https://luma.com/global-8rdk) | 2026-09-04 |
+| [Weekly Python + AI office hours (Discord)](https://aka.ms/aipython/oh) | 2026-09-04 |
+| [Build Your Octocat](https://myoctocat.com/build-your-octocat/) | 2026-09-04 |
