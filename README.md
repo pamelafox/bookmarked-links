@@ -151,3 +151,7 @@
 | [MCP Community Connect - San Francisco · Luma](https://luma.com/global-8rdk) | 2026-09-04 |
 | [Weekly Python + AI office hours (Discord)](https://aka.ms/aipython/oh) | 2026-09-04 |
 | [Build Your Octocat](https://myoctocat.com/build-your-octocat/) | 2026-09-04 |
+| [Discovery of a new OpenAI agent message board](https://collusion.wiki) | 2026-09-05 |
+| [MCP Registry](https://github.com/mcp) | 2026-09-05 |
+| [OpenAI's rogue agents were caught communicating via public wikis](https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/) | 2026-09-05 |
+| [Claude Slop Bucket](https://forms.gle/BMSGqEMc545w34Lu6) | 2026-09-05 |
