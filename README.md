@@ -155,3 +155,6 @@
 | [MCP Registry](https://github.com/mcp) | 2026-09-05 |
 | [OpenAI's rogue agents were caught communicating via public wikis](https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/) | 2026-09-05 |
 | [Claude Slop Bucket](https://forms.gle/BMSGqEMc545w34Lu6) | 2026-09-05 |
+| [Using Blender with coding agents on macOS](https://til.simonwillison.net/llms/blender-coding-agents-macos) | 2026-09-06 |
+| [3-D Dinosaur Adventure - Wikipedia](https://en.wikipedia.org/wiki/3-D_Dinosaur_Adventure) | 2026-09-06 |
+| [Coast Suede Hands-Free Slip-On \| Xero Shoes](https://xeroshoes.com/products/coast-suede-women) | 2026-09-06 |
