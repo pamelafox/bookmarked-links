@@ -158,3 +158,4 @@
 | [Using Blender with coding agents on macOS](https://til.simonwillison.net/llms/blender-coding-agents-macos) | 2026-09-06 |
 | [3-D Dinosaur Adventure - Wikipedia](https://en.wikipedia.org/wiki/3-D_Dinosaur_Adventure) | 2026-09-06 |
 | [Coast Suede Hands-Free Slip-On \| Xero Shoes](https://xeroshoes.com/products/coast-suede-women) | 2026-09-06 |
+| [Salt: A World History](https://bookshop.org/p/books/salt-a-world-history-mark-kurlansky/7991928ffb782375?ean=9780142001615) | 2026-09-07 |
