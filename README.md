@@ -161,3 +161,7 @@
 | [Salt: A World History](https://bookshop.org/p/books/salt-a-world-history-mark-kurlansky/7991928ffb782375?ean=9780142001615) | 2026-09-07 |
 | [Your Pydantic AI agents just gained a voice](https://pydantic.dev/articles/pydantic-ai-voice-agent) | 2026-09-08 |
 | [OpenClaw Went Viral. Meet the Maintainers Building and Securing It.](https://www.youtube.com/watch?v=5VSwaUXtPIE) | 2026-09-08 |
+| [MCP Live! (full video playlist)](https://www.youtube.com/playlist?list=PLJ2a7YWJ3jxk) | 2026-09-11 |
+| [Muesli - Local-by-default dictation & transcription for macOS](https://github.com/Muesli-HQ/muesli) | 2026-09-11 |
+| [Neural Nights (Arcade after-party at Novela) · Luma](https://luma.com/s0w1buzu) | 2026-09-11 |
+| [Monarch Butterfly Metamorphosis time-lapse - YouTube](https://www.youtube.com/watch?v=ocWgSgMGxOc) | 2026-09-11 |
