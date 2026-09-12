@@ -165,3 +165,11 @@
 | [Muesli - Local-by-default dictation & transcription for macOS](https://github.com/Muesli-HQ/muesli) | 2026-09-11 |
 | [Neural Nights (Arcade after-party at Novela) · Luma](https://luma.com/s0w1buzu) | 2026-09-11 |
 | [Monarch Butterfly Metamorphosis time-lapse - YouTube](https://www.youtube.com/watch?v=ocWgSgMGxOc) | 2026-09-11 |
+| [Metadata requests no longer tracked in PyPI download counts - The Python Package Index Blog](https://blog.pypi.org/posts/2026-08-31-download-counts/) | 2026-09-12 |
+| [PyPI Download Stats](https://pypistats.org/) | 2026-09-12 |
+| [Nathan For You - Frozen Yogurt](https://www.youtube.com/watch?v=NO8V72pDw1o) | 2026-09-12 |
+| [Teaching Novice Computing and Programming in the Agentic AI Era](https://cs.brown.edu/people/sk/Publications/Papers/Published/fkl-teach-nov-agentic-ai-era/) | 2026-09-12 |
+| [OpenAI's rogue agents were also exploiting RubyGems](https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/) | 2026-09-12 |
+| [Release 3.4.0b1 · stanfordnlp/dspy](https://github.com/stanfordnlp/dspy/releases/tag/3.4.0b1) | 2026-09-12 |
+| [Inadvertent Algorithmic Cruelty - Eric Meyer](https://meyerweb.com/eric/thoughts/2014/12/24/inadvertent-algorithmic-cruelty/) | 2026-09-12 |
+| [microsoft/mcp-for-beginners](https://aka.ms/mcp-for-beginners) | 2026-09-12 |
