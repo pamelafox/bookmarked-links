@@ -173,3 +173,4 @@
 | [Release 3.4.0b1 · stanfordnlp/dspy](https://github.com/stanfordnlp/dspy/releases/tag/3.4.0b1) | 2026-09-12 |
 | [Inadvertent Algorithmic Cruelty - Eric Meyer](https://meyerweb.com/eric/thoughts/2014/12/24/inadvertent-algorithmic-cruelty/) | 2026-09-12 |
 | [microsoft/mcp-for-beginners](https://aka.ms/mcp-for-beginners) | 2026-09-12 |
+| [MCP Live! \| A half-day livestream about the latest in MCP](https://www.youtube.com/watch?v=uydwDk91Y9Y) | 2026-09-15 |
