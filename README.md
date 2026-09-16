@@ -174,3 +174,6 @@
 | [Inadvertent Algorithmic Cruelty - Eric Meyer](https://meyerweb.com/eric/thoughts/2014/12/24/inadvertent-algorithmic-cruelty/) | 2026-09-12 |
 | [microsoft/mcp-for-beginners](https://aka.ms/mcp-for-beginners) | 2026-09-12 |
 | [MCP Live! \| A half-day livestream about the latest in MCP](https://www.youtube.com/watch?v=uydwDk91Y9Y) | 2026-09-15 |
+| [Explore the latest in MCP: All recordings from MCP Live!](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/explore-the-latest-in-mcp-all-recordings-from-mcp-live/4556775) | 2026-09-16 |
+| [PyLadiesCon 2026: A Special Edition](https://conference.pyladies.com/2026-special-edition/) | 2026-09-16 |
+| [Event-driven agents, powered by MCP](https://www.youtube.com/watch?v=nPMbXzJqKmQ) | 2026-09-16 |
