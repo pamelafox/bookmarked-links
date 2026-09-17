@@ -177,3 +177,4 @@
 | [Explore the latest in MCP: All recordings from MCP Live!](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/explore-the-latest-in-mcp-all-recordings-from-mcp-live/4556775) | 2026-09-16 |
 | [PyLadiesCon 2026: A Special Edition](https://conference.pyladies.com/2026-special-edition/) | 2026-09-16 |
 | [Event-driven agents, powered by MCP](https://www.youtube.com/watch?v=nPMbXzJqKmQ) | 2026-09-16 |
+| [Todoist \| A To-Do List to Organize Your Work & Life](https://www.todoist.com/) | 2026-09-17 |
