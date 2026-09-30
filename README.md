@@ -180,3 +180,10 @@
 | [Todoist \| A To-Do List to Organize Your Work & Life](https://www.todoist.com/) | 2026-09-17 |
 | [The evolution of MCP — MCP Community Connect SF keynote (digitarald)](https://digitarald.github.io/slides/2026-09-14-mcp-community-connect-sf/) | 2026-09-18 |
 | [Dissectible Anatomy Lets Users Cut & Tear Virtual Bodies in Real Time](https://80.lv/articles/dissectible-anatomy-lets-users-cut-tear-virtual-bodies-in-real-time) | 2026-09-18 |
+| [Towards safety cases for frontier AI training](https://openai.com/index/towards-safety-cases-for-frontier-ai-training/) | 2026-09-30 |
+| [GitHub - openai/mcp-extensions](https://github.com/openai/mcp-extensions) | 2026-09-30 |
+| [Exploring MCP Servers with GitHub Copilot](https://pamelafox.github.io/github-copilot-mcp-skills-workshop/) | 2026-09-30 |
+| [GitHub - pamelafox/personal-linkedin-agent](https://github.com/pamelafox/personal-linkedin-agent) | 2026-09-30 |
+| ["You Said No MCP!" \| Earendil](https://earendil.com/posts/you-said-no-mcp/) | 2026-09-30 |
+| [OpenAI DevDay 2026 live blog](https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/) | 2026-09-30 |
+| [2026 in LLMs (so far)](https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/) | 2026-09-30 |
