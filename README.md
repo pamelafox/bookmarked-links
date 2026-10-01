@@ -187,3 +187,9 @@
 | ["You Said No MCP!" \| Earendil](https://earendil.com/posts/you-said-no-mcp/) | 2026-09-30 |
 | [OpenAI DevDay 2026 live blog](https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/) | 2026-09-30 |
 | [2026 in LLMs (so far)](https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/) | 2026-09-30 |
+| [When One Agent Isn't Enough: Orchestrating Secure Parallel Agent Swarms (video)](https://www.youtube.com/watch?v=Nd3036clOCY) | 2026-10-01 |
+| [When One Agent Isn't Enough: Orchestrating Secure Parallel Agent Swarms (slides)](https://pamelafox.github.io/aca-sandboxes-multi-agent/) | 2026-10-01 |
+| [GitHub - pamelafox/aca-sandboxes-multi-agent](https://github.com/pamelafox/aca-sandboxes-multi-agent) | 2026-10-01 |
+| [When One Agent Isn't Enough: Orchestrating Secure Parallel Agent Swarms \| Microsoft Reactor](https://developer.microsoft.com/reactor/events/27394/) | 2026-10-01 |
+| [Using HTML Slides for Programming Classes!](https://pamelafox.github.io/html-slides-for-programming/) | 2026-10-01 |
+| [Your Slides, But Faster](https://pamelafox.github.io/ai-powered-presentation-workflow/) | 2026-10-01 |
