@@ -193,3 +193,6 @@
 | [When One Agent Isn't Enough: Orchestrating Secure Parallel Agent Swarms \| Microsoft Reactor](https://developer.microsoft.com/reactor/events/27394/) | 2026-10-01 |
 | [Using HTML Slides for Programming Classes!](https://pamelafox.github.io/html-slides-for-programming/) | 2026-10-01 |
 | [Your Slides, But Faster](https://pamelafox.github.io/ai-powered-presentation-workflow/) | 2026-10-01 |
+| [Embedding models · Ollama](https://ollama.com/search?c=embedding) | 2026-10-02 |
+| [MCP servers for the X API and X developer docs - X](https://docs.x.com/tools/mcp) | 2026-10-02 |
+| [How Jev works: calibrated decision models \| Victor Dibia](https://victordibia.com/explainers/jev/) | 2026-10-02 |
