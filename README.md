@@ -196,3 +196,7 @@
 | [Embedding models · Ollama](https://ollama.com/search?c=embedding) | 2026-10-02 |
 | [MCP servers for the X API and X developer docs - X](https://docs.x.com/tools/mcp) | 2026-10-02 |
 | [How Jev works: calibrated decision models \| Victor Dibia](https://victordibia.com/explainers/jev/) | 2026-10-02 |
+| [Convergence in vector space](https://pamelafox.github.io/convergence-with-vectors/) | 2026-10-05 |
+| [Play Convergence \| Convergence in vector space](https://tinyurl.com/play-convergence) | 2026-10-05 |
+| [Introduction - Rust for CPython](https://rust-for-cpython.com) | 2026-10-05 |
+| [PyBay 2026 - 11th Annual Bay Area Python Dev Conference](https://pybay.org/) | 2026-10-05 |
