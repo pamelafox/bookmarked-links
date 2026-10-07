@@ -200,3 +200,10 @@
 | [Play Convergence \| Convergence in vector space](https://tinyurl.com/play-convergence) | 2026-10-05 |
 | [Introduction - Rust for CPython](https://rust-for-cpython.com) | 2026-10-05 |
 | [PyBay 2026 - 11th Annual Bay Area Python Dev Conference](https://pybay.org/) | 2026-10-05 |
+| [We are all Product Engineers now \| Seldo.com](https://seldo.com/posts/we-are-all-product-engineers-now/) | 2026-10-07 |
+| [The state of the tech industry in 2026 - by Gergely Orosz](https://newsletter.pragmaticengineer.com/p/the-state-of-the-tech-industry-in) | 2026-10-07 |
+| [Wildwood – Official Trailer - YouTube](https://www.youtube.com/watch?v=dtr5JL1zkiM) | 2026-10-07 |
+| [Lean TDD](https://leantdd.com/) | 2026-10-07 |
+| [GitHub - openclaw/gogcli: Google Workspace in your terminal.](https://github.com/openclaw/gogcli) | 2026-10-07 |
+| [GitHub - mattgotteiner/gmail-local-mcp: Local stdio MCP server for Gmail](https://github.com/mattgotteiner/gmail-local-mcp) | 2026-10-07 |
+| [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/) | 2026-10-07 |
