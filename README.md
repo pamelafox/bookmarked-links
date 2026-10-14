@@ -207,3 +207,8 @@
 | [GitHub - openclaw/gogcli: Google Workspace in your terminal.](https://github.com/openclaw/gogcli) | 2026-10-07 |
 | [GitHub - mattgotteiner/gmail-local-mcp: Local stdio MCP server for Gmail](https://github.com/mattgotteiner/gmail-local-mcp) | 2026-10-07 |
 | [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/) | 2026-10-07 |
+| [Local models and sandboxed tools in GitHub Copilot](https://commandline.microsoft.com/local-models-sandboxed-tools-github-windows/) | 2026-10-14 |
+| [Configure Google Workspace MCP servers \| Google for Developers](https://developers.google.com/workspace/guides/configure-mcp-servers) | 2026-10-14 |
+| [AI skills - with Matt Pocock (The Pragmatic Engineer Podcast)](https://newsletter.pragmaticengineer.com/p/ai-skills-with-matt-pocock) | 2026-10-14 |
+| [Document Evals: OCR, Retrieval, and Agents \| Isaac Flath](https://isaacflath.com/writing/document-evals) | 2026-10-14 |
+| [Benchmark run: Opus 5.5 terminal-bench 2.1 \| fast-agent](https://fast-agent.ai/benchmarks/run/?id=opus55-high-6h) | 2026-10-14 |
