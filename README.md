@@ -212,3 +212,8 @@
 | [AI skills - with Matt Pocock (The Pragmatic Engineer Podcast)](https://newsletter.pragmaticengineer.com/p/ai-skills-with-matt-pocock) | 2026-10-14 |
 | [Document Evals: OCR, Retrieval, and Agents \| Isaac Flath](https://isaacflath.com/writing/document-evals) | 2026-10-14 |
 | [Benchmark run: Opus 5.5 terminal-bench 2.1 \| fast-agent](https://fast-agent.ai/benchmarks/run/?id=opus55-high-6h) | 2026-10-14 |
+| [Software engineers don't get to be Luddites about AI](https://www.seangoedecke.com/software-engineers-dont-get-to-be-luddites-about-ai/) | 2026-10-15 |
+| [Visual Studio Code 1.142](https://code.visualstudio.com/updates/v1_142) | 2026-10-15 |
+| [LLMs have favorite numbers](https://sanand0.github.io/llmrandom/) | 2026-10-15 |
+| [Predator satiation - Wikipedia](https://en.wikipedia.org/wiki/Predator_satiation) | 2026-10-15 |
+| [office-hours-writeups: check_reptile.py](https://github.com/pamelafox/office-hours-writeups/blob/main/office-hours/2026_10_13/check_reptile.py) | 2026-10-15 |
